@@ -1,8 +1,5 @@
 # <span align="center" style="color: blue">Daniil Еrofeev</span>
 
-* Every day I spend my time here:
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Stepik](https://img.shields.io/badge/Stepik-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 * My favorite programming language is
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * Machine Learning frameworks that I use almost everyday:
